@@ -1,9 +1,9 @@
 ## Nadia Almasalkhi, PhD student
 
 <nav><h4>
-	<a href="nalmasalkhi.github.io/index">Home</a> | 
-	<a href="nalmasalkhi.github.io/projects">Projects</a> | 
-	<a href="nalmasalkhi.github.io/education">Education</a>
+	<a href="nalmasalkhi.github.io/index" onclick="window.open('index', '_self');">Home</a> | 
+	<a href="nalmasalkhi.github.io/projects" onclick="window.open('projects', '_self');">Projects</a> | 
+	<a href="nalmasalkhi.github.io/education" onclick="window.open('education', '_self');">Education</a>
 </h4></nav>
 
 # Nadia Almasalkhi
