@@ -1,9 +1,9 @@
-<head> 
-	Nadia Almasalkhi, PhD student
-</head>
+## Nadia Almasalkhi, PhD student
 
 <nav><h4>
-	<a href="nalmasalkhi.github.io/index">Home</a> | <a href="nalmasalkhi.github.io/projects">Projects</a> | <a href="nalmasalkhi.github.io/education">Education</a>
+	<a href="nalmasalkhi.github.io/index">Home</a> | 
+	<a href="nalmasalkhi.github.io/projects">Projects</a> | 
+	<a href="nalmasalkhi.github.io/education">Education</a>
 </h4></nav>
 
 # Nadia Almasalkhi
