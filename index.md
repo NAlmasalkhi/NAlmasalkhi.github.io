@@ -6,7 +6,7 @@
 </head>
 
 <nav><h4>
-	<a href="nalmasalkhi.github.io/index">Home</a><strong>|</strong><a href="nalmasalkhi.github.io/projects">Projects</a><strong>|</strong>
+	<a href="nalmasalkhi.github.io/index">Home</a><strong> | </strong><a href="nalmasalkhi.github.io/projects">Projects</a><strong> | </strong><a href="nalmasalkhi.github.io/education">Education</a>
 </h4></nav>
 
 # Nadia Almasalkhi
