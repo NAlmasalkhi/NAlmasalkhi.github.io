@@ -1,11 +1,17 @@
+<head> 
+	<title>Nadia Almasalkhi, PhD student</title>
+	<style>
+	@import url('https://fonts.googleapis.com/css?family=Antic+Didone|Bad+Script|Barrio|Bubbler+One|Bungee+Hairline|Cabin+Sketch|Cormorant+SC|Didact+Gothic|Encode+Sans+Semi+Expanded|Forum|Gruppo|Imprima|Italiana|Josefin+Sans|Josefin+Slab|Julius+Sans+One|Kavivanar|League+Script|Marcellus|Megrim|Montserrat|Montserrat+Alternates|Poiret+One|Raleway|Ribeye+Marrow|Satisfy|Snippet|Sree+Krushnadevaraya|Tajawal|Tenor+Sans|Zilla+Slab+Highlight');
+	</style>
+</head>
+
 <nav><h4>
-	<a href="index">Home</a>
-	<a href="projects">Projects</a>
+	<a href="nalmasalkhi.github.io/index">Home</a><strong>|</strong><a href="nalmasalkhi.github.io/projects">Projects</a><strong>|</strong>
 </h4></nav>
 
 # Nadia Almasalkhi
 
-Nadia is a sociology PhD student at the University of California, Berkeley. She is a Syrian-American raised in Kentucky by two immigrant parents. As a first-generation American, Nadia has always been interested in the immigrant experience. Early in her life, she began working with refugees in the U.S. and has gained valuable experience in the fields of refugee resettlement and immigration law. Her research interests include migration, transnationalism, social movements, xenophobia, political attitudes, and the Middle East. Nadia speaks English, Arabic, French and Spanish.
+Nadia is a sociology PhD student at the University of California, Berkeley. As a first-generation Syrian American, Nadia has always been interested in the immigrant experience. Early in her life, she began working with refugees in the U.S. and has gained valuable experience in the fields of refugee resettlement and immigration law. Her research interests include migration, transnationalism, social movements, xenophobia, political attitudes, and the Middle East. Nadia speaks English, Arabic, French and Spanish.
 
 # Publications
 
