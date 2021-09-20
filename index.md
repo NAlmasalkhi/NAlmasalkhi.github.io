@@ -1,5 +1,5 @@
 <head> 
-	<title>Nadia Almasalkhi, PhD student</title>
+	Nadia Almasalkhi, PhD student
 </head>
 
 <nav><h4>
