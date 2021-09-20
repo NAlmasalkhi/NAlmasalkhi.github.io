@@ -1,6 +1,6 @@
 <nav><h4>
-	<a href="index.md">Home</a>
-	<a href="projects.md">Projects</a>
+	<a href="index">Home</a>
+	<a href="projects">Projects</a>
 </h4></nav>
 
 # Nadia Almasalkhi
